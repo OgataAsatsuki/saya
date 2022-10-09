@@ -1,0 +1,9 @@
+[package]
+name = "saya"
+version = "0.1.0"
+edition = "2021"
+
+[registries]
+ustc = { index = "https://mirrors.ustc.edu.cn/crates.io-index/" }
+
+[dependencies]
